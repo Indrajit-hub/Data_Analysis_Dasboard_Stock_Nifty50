@@ -1,1 +1,1 @@
-# Data_Analysis_Dasboard_Stock_Nifty50
+# Data_Analysis_Dasboard_Stock_Nifty
